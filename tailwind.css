@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .johncarter-block-placeholder {
+        @apply p-6;
+    }
+}
